@@ -1,0 +1,5 @@
+test-success:
+    description: "Test output from a successful action."
+
+test-failure:
+    description: "Test output from a failed action"
